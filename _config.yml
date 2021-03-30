@@ -1,7 +1,6 @@
 ---
-title: Joe Biden = Cutie
+title: "Joe Biden = Cutie"
 date: 2021-03-30
----
 theme: minima
 author: Joe Biden User
 email: your-JoeBiden@domain.com
@@ -12,3 +11,4 @@ twitter_username: JoeBiden # DO NOT include the @ character, or else the build w
 github_username:  JoeBiden # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+---
