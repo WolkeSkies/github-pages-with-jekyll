@@ -1,8 +1,8 @@
-theme: minima
 ---
 title: Joe Biden = Cutie
 date: 2021-03-30
 ---
+theme: minima
 author: Joe Biden User
 email: your-JoeBiden@domain.com
 description: > # this means to ignore newlines until "baseurl:"
